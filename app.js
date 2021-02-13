@@ -175,8 +175,6 @@ function calculator(button) {
         }
 
         // FORMAT THE RESULT
-        console.log(result_final)
-        console.log(parseInt(result_final))
         result_final = formatResult(result_final);
 
         // SAVE RESULT FOR ANY FUTURE USE
