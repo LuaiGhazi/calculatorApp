@@ -14,3 +14,4 @@ Check it out here: https://luaighazi.github.io/calculatorApp/
 ## Getting Started
 To clone or download this repository: 
 > git clone https://github.com/luaighazi/calculatorApp.git
+# weatherAppRefactored
