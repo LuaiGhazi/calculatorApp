@@ -110,7 +110,7 @@ function createCalculatorButtons() {
     const btns_per_row = 4;
     let added_btns = 0;
 
-    calculator_buttons.forEach((button, index) => {
+    calculator_buttons.forEach((button) => {
         if (added_btns % btns_per_row == 0) {
             input_element.innerHTML += `<div class="row"></div>`;
         }
