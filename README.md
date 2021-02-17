@@ -9,7 +9,7 @@
 A calculator app built using plain JS. 
 
 ## Live demo
-Check it out here: https://luaighazi.github.io/calculatorApp/
+Check the calculator out using the following link: https://luaighazi.github.io/calculatorApp/
 
 ## Getting Started
 To clone or download this repository: 

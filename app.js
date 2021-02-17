@@ -123,6 +123,7 @@ function createCalculatorButtons() {
         added_btns++;
     });
 }
+
 createCalculatorButtons();
 
 input_element.addEventListener("click", event => {
